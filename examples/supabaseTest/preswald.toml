@@ -14,5 +14,5 @@ primaryColor = "#F89613"
 [data.test_sb]
 type = "supabase"
 url = "https://srikrhgcpudzdnsfmekp.supabase.co"
-api_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNyaWtyaGdjcHVkemRuc2ZtZWtwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM0MTM4MDUsImV4cCI6MjA1ODk4OTgwNX0.lPOC1cpAbhltdW9dK8hjdbcrAD31ancGpWgzIdzvm5o"
+api_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNyaWtyaGdjcHVkemRuc2ZtZWtwIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0MzQxMzgwNSwiZXhwIjoyMDU4OTg5ODA1fQ.YqV6wMlS4PmsqmNsEbOcwJ22RRkoe0mI_3y-41HEj0M"
 table = "test"

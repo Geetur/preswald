@@ -157,7 +157,7 @@ class SupabaseSource(DataSource):
         self.url = config.url
         self.api_key = config.api_key
         self.table = config.table
-
+        
         self.client = create_client(self.url, self.api_key)
 
     def to_df(
