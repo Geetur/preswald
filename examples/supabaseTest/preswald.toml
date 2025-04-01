@@ -1,0 +1,18 @@
+[project]
+title = "Preswald Project"
+version = "0.1.0"
+port = 8501
+entrypoint = "hello.py"
+slug = "earthquakes"
+
+[branding]
+name = "Preswald Project"
+logo = "images/logo.png"
+favicon = "images/favicon.ico"
+primaryColor = "#F89613"
+
+[data.test_sb]
+type = "supabase"
+url = "https://srikrhgcpudzdnsfmekp.supabase.co"
+api_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNyaWtyaGdjcHVkemRuc2ZtZWtwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM0MTM4MDUsImV4cCI6MjA1ODk4OTgwNX0.lPOC1cpAbhltdW9dK8hjdbcrAD31ancGpWgzIdzvm5o"
+table = "test"
